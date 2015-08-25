@@ -1,0 +1,5 @@
+
+
+
+React can either render HTML tags (strings) or React components (classes).
+React's JSX uses the upper vs. lower case convention to distinguish between local component classes and HTML tags.
